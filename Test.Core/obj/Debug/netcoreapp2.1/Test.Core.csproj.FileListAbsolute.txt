@@ -1,0 +1,9 @@
+C:\Users\mortaza\source\repos\TestWebApp02\Test.Core\bin\Debug\netcoreapp2.1\Test.Core.deps.json
+C:\Users\mortaza\source\repos\TestWebApp02\Test.Core\bin\Debug\netcoreapp2.1\Test.Core.dll
+C:\Users\mortaza\source\repos\TestWebApp02\Test.Core\obj\Debug\netcoreapp2.1\Test.Core.csproj.CoreCompileInputs.cache
+C:\Users\mortaza\source\repos\TestWebApp02\Test.Core\obj\Debug\netcoreapp2.1\Test.Core.AssemblyInfoInputs.cache
+C:\Users\mortaza\source\repos\TestWebApp02\Test.Core\obj\Debug\netcoreapp2.1\Test.Core.AssemblyInfo.cs
+C:\Users\mortaza\source\repos\TestWebApp02\Test.Core\bin\Debug\netcoreapp2.1\Test.Core.pdb
+C:\Users\mortaza\source\repos\TestWebApp02\Test.Core\obj\Debug\netcoreapp2.1\Test.Core.dll
+C:\Users\mortaza\source\repos\TestWebApp02\Test.Core\obj\Debug\netcoreapp2.1\Test.Core.pdb
+C:\Users\mortaza\source\repos\TestWebApp02\Test.Core\obj\Debug\netcoreapp2.1\Test.Core.csprojAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\mortaza\source\repos\TestWebApp02\ClientApp\obj\Debug\ProductTestReactJs.njsprojAssemblyReference.cache
+C:\Users\mortaza\source\repos\TestWebApp02\ClientApp\obj\Debug\ProductTestReactJs.njsproj.CoreCompileInputs.cache
+C:\Users\mortaza\source\repos\TestWebApp02\ClientApp\bin\Microsoft.NodejsTools.WebRole.dll
