@@ -34,6 +34,7 @@ class NewProductPage extends React.Component {
 
     saveProduct(event) {
         event.preventDefault();
+        debugger;
         this.props.actions.createProduct(this.state.product);
     }
 

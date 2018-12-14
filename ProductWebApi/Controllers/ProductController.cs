@@ -35,7 +35,7 @@ namespace WebApplication1.Controllers
 
         // POST: api/Product
         [HttpPost]
-        public async Task<IActionResult> Post([FromBody] ProductDto value)
+        public async Task<IActionResult> Post([FromBody]  ProductDto value)
         {
             await productService.AddAsync(value);
             return Created($"Product {value.Id}", value.Id);
