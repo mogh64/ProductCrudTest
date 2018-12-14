@@ -1,13 +1,14 @@
-﻿import React, { PropTypes } from 'react';
-import { Link } from 'react-router-dom';
+﻿import React from 'react';
+import PropTypes from 'prop-types';
+import { NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
         <nav>
-            <Link exact to="/"
-                activeClassName="active">Home</Link >
+            <NavLink exact to="/"
+                activeClassName="active">Home</NavLink >
             {" | "}
-            <Link to="/products" activeClassName="active">Products</Link>
+            <NavLink to="/products" activeClassName="active">Products</NavLink>
         </nav>
     );
 };

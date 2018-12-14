@@ -9,7 +9,7 @@ class HomePage extends React.Component {
                 
                 <h1>Product Catalog</h1>
                 <p>the best way manage your Product collection.</p>
-                <Link to="login" className="btn btn-primary btn-lg">log in as a test user</Link>
+               
             </div>
         );
     }

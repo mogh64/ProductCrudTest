@@ -6,3 +6,12 @@ C:\Users\mortaza\source\repos\TestWebApp02\Test.Core\obj\Debug\netcoreapp2.1\Pro
 C:\Users\mortaza\source\repos\TestWebApp02\Test.Core\obj\Debug\netcoreapp2.1\ProductTest.Core.AssemblyInfo.cs
 C:\Users\mortaza\source\repos\TestWebApp02\Test.Core\obj\Debug\netcoreapp2.1\ProductTest.Core.dll
 C:\Users\mortaza\source\repos\TestWebApp02\Test.Core\obj\Debug\netcoreapp2.1\ProductTest.Core.pdb
+E:\My Repository\ProductCrudTest\ProductTest\Test.Core\bin\Debug\netcoreapp2.1\ProductTest.Core.deps.json
+E:\My Repository\ProductCrudTest\ProductTest\Test.Core\bin\Debug\netcoreapp2.1\ProductTest.Core.dll
+E:\My Repository\ProductCrudTest\ProductTest\Test.Core\bin\Debug\netcoreapp2.1\ProductTest.Core.pdb
+E:\My Repository\ProductCrudTest\ProductTest\Test.Core\obj\Debug\netcoreapp2.1\ProductTest.Core.csprojAssemblyReference.cache
+E:\My Repository\ProductCrudTest\ProductTest\Test.Core\obj\Debug\netcoreapp2.1\ProductTest.Core.csproj.CoreCompileInputs.cache
+E:\My Repository\ProductCrudTest\ProductTest\Test.Core\obj\Debug\netcoreapp2.1\ProductTest.Core.AssemblyInfoInputs.cache
+E:\My Repository\ProductCrudTest\ProductTest\Test.Core\obj\Debug\netcoreapp2.1\ProductTest.Core.AssemblyInfo.cs
+E:\My Repository\ProductCrudTest\ProductTest\Test.Core\obj\Debug\netcoreapp2.1\ProductTest.Core.dll
+E:\My Repository\ProductCrudTest\ProductTest\Test.Core\obj\Debug\netcoreapp2.1\ProductTest.Core.pdb

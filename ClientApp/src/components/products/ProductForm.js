@@ -1,9 +1,10 @@
-﻿import React, { PropTypes } from 'react';
+﻿import React from 'react';
+import PropTypes from 'prop-types';
 import TextInput from '../Input/TextInput';
 
 class ProductForm extends React.Component {
     render() {
-        const boxes = this.makeCheckBoxes();
+        
         return (
             <div>
                 <form>
@@ -37,10 +38,10 @@ class ProductForm extends React.Component {
 }
 
 ProductForm.propTypes = {
-    product: React.PropTypes.object.isRequired,    
-    onSave: React.PropTypes.func.isRequired,
-    onChange: React.PropTypes.func.isRequired,
-    saving: React.PropTypes.bool
+    product: PropTypes.object.isRequired,    
+    onSave:PropTypes.func.isRequired,
+    onChange:PropTypes.func.isRequired,
+    saving: PropTypes.bool
 };
 
 export default ProductForm; 

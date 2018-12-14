@@ -1,3 +1,6 @@
 C:\Users\mortaza\source\repos\TestWebApp02\ClientApp\obj\Debug\ProductTestReactJs.njsprojAssemblyReference.cache
 C:\Users\mortaza\source\repos\TestWebApp02\ClientApp\obj\Debug\ProductTestReactJs.njsproj.CoreCompileInputs.cache
 C:\Users\mortaza\source\repos\TestWebApp02\ClientApp\bin\Microsoft.NodejsTools.WebRole.dll
+E:\My Repository\ProductCrudTest\ProductTest\ClientApp\obj\Debug\ProductTestReactJs.njsprojAssemblyReference.cache
+E:\My Repository\ProductCrudTest\ProductTest\ClientApp\obj\Debug\ProductTestReactJs.njsproj.CoreCompileInputs.cache
+E:\My Repository\ProductCrudTest\ProductTest\ClientApp\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,4 +1,5 @@
-﻿import React, { PropTypes } from 'react';
+﻿import React from 'react';
+import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import * as courseActions from '../../actions/productActions';
@@ -18,7 +19,7 @@ class NewProductPage extends React.Component {
             },
             saving: false
         };
-        this.redirect = this.redirect.bind(this);
+        
         this.saveProduct = this.saveProduct.bind(this);
 
         this.updateProductState = this.updateProductState.bind(this);

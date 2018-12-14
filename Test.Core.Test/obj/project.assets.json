@@ -6888,11 +6888,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mortaza\\source\\repos\\TestWebApp02\\Test.Core.Test\\ProductTest.Core.Test.csproj",
+      "projectUniqueName": "E:\\My Repository\\ProductCrudTest\\ProductTest\\Test.Core.Test\\ProductTest.Core.Test.csproj",
       "projectName": "ProductTest.Core.Test",
-      "projectPath": "C:\\Users\\mortaza\\source\\repos\\TestWebApp02\\Test.Core.Test\\ProductTest.Core.Test.csproj",
+      "projectPath": "E:\\My Repository\\ProductCrudTest\\ProductTest\\Test.Core.Test\\ProductTest.Core.Test.csproj",
       "packagesPath": "C:\\Users\\mortaza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mortaza\\source\\repos\\TestWebApp02\\Test.Core.Test\\obj\\",
+      "outputPath": "E:\\My Repository\\ProductCrudTest\\ProductTest\\Test.Core.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6910,8 +6910,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\mortaza\\source\\repos\\TestWebApp02\\Test.Core\\ProductTest.Core.csproj": {
-              "projectPath": "C:\\Users\\mortaza\\source\\repos\\TestWebApp02\\Test.Core\\ProductTest.Core.csproj"
+            "E:\\My Repository\\ProductCrudTest\\ProductTest\\Test.Core\\ProductTest.Core.csproj": {
+              "projectPath": "E:\\My Repository\\ProductCrudTest\\ProductTest\\Test.Core\\ProductTest.Core.csproj"
             }
           }
         }

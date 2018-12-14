@@ -1,6 +1,7 @@
 ﻿// src/components/common/TextInput.js
 
-import React, { PropTypes } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 
 const TextInput = ({ name, onChange, placeholder, value }) => {
     return (

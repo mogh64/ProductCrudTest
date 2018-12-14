@@ -42,7 +42,6 @@
     <Compile Include="src\common\Header.js" />
     <Compile Include="src\components\home\HomePage.js" />
     <Compile Include="src\components\Input\TextInput.js" />
-    <Compile Include="src\components\App.js" />
     <Compile Include="src\components\products\NewProductPage.js" />
     <Compile Include="src\components\products\ProductCategoryList.js" />
     <Compile Include="src\components\products\ProductForm.js" />
@@ -54,21 +53,16 @@
     <Compile Include="src\reducers\productCategoryReducer.js" />
     <Compile Include="src\reducers\productReducer.js" />
     <Compile Include="src\reducers\rootReducer.js" />
-    <Compile Include="src\routes.js" />
     <Compile Include="src\serviceWorker.js" />
     <Compile Include="src\store\configureStore.js" />
     <Compile Include="webpack.config.js" />
-    <Content Include="dist\favicon.ico" />
-    <Content Include="dist\index.html" />
-    <Content Include="dist\manifest.json" />
-    <Content Include="package-lock.json" />
+    <Content Include="index.html" />
     <Content Include="package.json" />
-    <Content Include="public\favicon.ico" />
-    <Content Include="public\index.html" />
-    <Content Include="public\manifest.json" />
     <Content Include="README.md" />
     <Content Include="src\App.css" />
     <Content Include="src\index.css" />
+    <Content Include="public\index.html" />
+    <Content Include="src\index.html" />
     <Content Include="yarn.lock" />
   </ItemGroup>
   <ItemGroup>

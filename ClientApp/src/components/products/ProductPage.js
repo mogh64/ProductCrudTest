@@ -1,4 +1,5 @@
-﻿import React, { PropTypes } from 'react';
+﻿import React from 'react';
+import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';  
 import * as productActions from '../../actions/productActions';
@@ -60,7 +61,7 @@ class ProductPage extends React.Component {
                 <h1>{this.state.product.title}</h1>
                 <p>Model: {this.state.product.model}</p>
                 <p>Price: {this.state.product.price}</p>               
-                <ProductCategoryList productCategories={this.state.productCategories} />
+               
                 <button onClick={this.toggleEdit}>edit</button>
                 <button
                     onClick={this.deleteProduct}
@@ -82,10 +83,11 @@ function getProductById(products, id) {
     return Object.assign({}, product);
 }
 function mapStateToProps(state, ownProps) {
+    debugger;
     let product = { title: '', model: '', price: '', categoryId: ''};
-    const productId = ownProps.params.id;
+    const productId = ownProps.match.params.id;
     if (productId && state.products.length > 0) {
-        product = getProductById(state.products, ownProps.params.id);
+        product = getProductById(state.products, ownProps.match.params.id);
 
     }
     return { product: product };

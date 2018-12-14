@@ -13,17 +13,23 @@ module.exports = {
                 test: /\.(js|jsx)$/,
                 exclude: /node_modules/,
                 use: ['babel-loader']
-            }
+            },
+            {
+                test: /\.html$/,
+                use: 'html-loader'
+            },
         ]
     },
     plugins: [
         new webpack.HotModuleReplacementPlugin()
+        
     ],
     resolve: {
         extensions: ['*', '.js', '.jsx']
     },
     devServer: {
-        contentBase: './dist',
+        publicPath: "/",
+        contentBase: "./public",
         hot: true
     }
 };

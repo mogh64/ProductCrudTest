@@ -29,6 +29,7 @@ export function updateProdcut(product) {
 export function loadProducts() {
     return function (dispatch) {
         return productApi.getAll().then(products => {
+            
             dispatch(loadProductsSuccess(products));
         }).catch(error => {
             throw (error);

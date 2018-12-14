@@ -3534,11 +3534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mortaza\\source\\repos\\TestWebApp02\\Test.Core\\ProductTest.Core.csproj",
+      "projectUniqueName": "E:\\My Repository\\ProductCrudTest\\ProductTest\\Test.Core\\ProductTest.Core.csproj",
       "projectName": "ProductTest.Core",
-      "projectPath": "C:\\Users\\mortaza\\source\\repos\\TestWebApp02\\Test.Core\\ProductTest.Core.csproj",
+      "projectPath": "E:\\My Repository\\ProductCrudTest\\ProductTest\\Test.Core\\ProductTest.Core.csproj",
       "packagesPath": "C:\\Users\\mortaza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mortaza\\source\\repos\\TestWebApp02\\Test.Core\\obj\\",
+      "outputPath": "E:\\My Repository\\ProductCrudTest\\ProductTest\\Test.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
